@@ -1,0 +1,15 @@
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\bin\Debug\net7.0\Factory.FitnessClub.exe
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\bin\Debug\net7.0\Factory.FitnessClub.deps.json
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\bin\Debug\net7.0\Factory.FitnessClub.runtimeconfig.json
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\bin\Debug\net7.0\Factory.FitnessClub.dll
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\bin\Debug\net7.0\Factory.FitnessClub.pdb
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.csproj.AssemblyReference.cache
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.AssemblyInfoInputs.cache
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.AssemblyInfo.cs
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.csproj.CoreCompileInputs.cache
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.dll
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\refint\Factory.FitnessClub.dll
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.pdb
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\Factory.FitnessClub.genruntimeconfig.cache
+C:\viktor\repo\projects\Factory.FitnessClub\Factory.FitnessClub\obj\Debug\net7.0\ref\Factory.FitnessClub.dll
